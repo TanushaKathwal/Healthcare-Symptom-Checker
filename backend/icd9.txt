@@ -620,7 +620,7 @@ DIAGNOSIS CODE	LONG DESCRIPTION	SHORT DESCRIPTION
 04112	Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site	MRSA elsewhere/NOS	
 04119	"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus"	Other staphylococcus	
 0412	Pneumococcus infection in conditions classified elsewhere and of unspecified site	Pneumococcus infect NOS	
-0413	Friedl‰nder's bacillus infection in conditions classified elsewhere and of unspecified site	Klebsiella pneumoniae	
+0413	Friedl√§nder's bacillus infection in conditions classified elsewhere and of unspecified site	Klebsiella pneumoniae	
 04141	Shiga toxin-producing Escherichia coli [E. coli] (STEC) O157	Shiga txn-produce E.coli	
 04142	Other specified Shiga toxin-producing Escherichia coli [E. coli] (STEC)	Shga txn prod E.coli NEC	
 04143	"Shiga toxin-producing Escherichia coli [E. coli] (STEC), unspecified"	Shga txn prod E.coli NOS	
@@ -658,7 +658,7 @@ DIAGNOSIS CODE	LONG DESCRIPTION	SHORT DESCRIPTION
 04619	Other and unspecified Creutzfeldt-Jakob disease	Creutzfldt-Jakob NEC/NOS	
 0462	Subacute sclerosing panencephalitis	Subac scleros panenceph	
 0463	Progressive multifocal leukoencephalopathy	Prog multifoc leukoencep	
-04671	Gerstmann-Str‰ussler-Scheinker syndrome	Gerstmn-Straus-Schnk syn	
+04671	Gerstmann-Str√§ussler-Scheinker syndrome	Gerstmn-Straus-Schnk syn	
 04672	Fatal familial insomnia	Fatal familial insomnia	
 04679	Other and unspecified prion disease of central nervous system	Prion dis of CNS NEC/NOS	
 0468	Other specified slow virus infection of central nervous system	Cns slow virus infec NEC	
@@ -4507,11 +4507,11 @@ DIAGNOSIS CODE	LONG DESCRIPTION	SHORT DESCRIPTION
 38583	Retained foreign body of middle ear	Foreign body middle ear	
 38589	Other disorders of middle ear and mastoid	Dis mid ear/mastoid NEC	
 3859	Unspecified disorder of middle ear and mastoid	Dis mid ear/mastoid NOS	
-38600	"MÈniËre's disease, unspecified"	Meniere's disease NOS	
-38601	"Active MÈniËre's disease, cochleovestibular"	"Actv Meniere,cochlvestib"	
-38602	"Active MÈniËre's disease, cochlear"	"Active Meniere, cochlear"	
-38603	"Active MÈniËre's disease, vestibular"	"Actv Meniere, vestibular"	
-38604	Inactive MÈniËre's disease	Inactive Meniere's dis	
+38600	"M√©ni√®re's disease, unspecified"	Meniere's disease NOS	
+38601	"Active M√©ni√®re's disease, cochleovestibular"	"Actv Meniere,cochlvestib"	
+38602	"Active M√©ni√®re's disease, cochlear"	"Active Meniere, cochlear"	
+38603	"Active M√©ni√®re's disease, vestibular"	"Actv Meniere, vestibular"	
+38604	Inactive M√©ni√®re's disease	Inactive Meniere's dis	
 38610	"Peripheral vertigo, unspecified"	Peripheral vertigo NOS	
 38611	Benign paroxysmal positional vertigo	Benign parxysmal vertigo	
 38612	Vestibular neuronitis	Vestibular neuronitis	
